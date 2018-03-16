@@ -1,0 +1,16 @@
+{
+    "name": "tic8/composer-test",
+    "authors": [
+        {
+            "name": "tic8",
+            "email": "ticmers@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    }
+}
