@@ -6,11 +6,6 @@
             "email": "ticmers@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
-	"autoload": {
-        "psr-4": {
-            "Test\\": "src/"
-        }
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
